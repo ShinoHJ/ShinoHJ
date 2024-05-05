@@ -1,5 +1,4 @@
-### Hi there 👋
-<h1 align="center">Hi 👋, I'm HJ</h1>
+<h1 align="center">Hi there 👋, I'm HJ</h1>
 <h3 align="center">A passionate frontend developer from Taiwan</h3>
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shinohj&label=Profile%20views&color=0e75b6&style=flat" alt="shinohj" /> </p> -->
@@ -12,8 +11,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 📄 Know about my experiences　⇒ [HERE](https://shinohj.github.io/HJ_Resume/#experience)
-
+- 📄 Know about my experiences　⇒ [**HERE**](https://shinohj.github.io/HJ_Resume/#experience)
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p> -->
@@ -23,11 +21,12 @@
 - CSS3 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20"/>](https://www.w3schools.com/css/), SASS [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="20"/>](https://sass-lang.com)
 - Bootstrap [<img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" width="20">](https://getbootstrap.com/)
 - JavaScript [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-<!-- - React [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20"/>](https://reactjs.org/), Vue [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20"/>](https://vuejs.org/), Node [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20"/>](https://nodejs.org) -->
-- Figma [<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="20"/>](https://www.figma.com/), XD [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="xd" width="20"/>](https://www.adobe.com/products/xd.html), Illustrator [<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="20"/>](https://www.adobe.com/in/products/illustrator.html), Photoshop [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>](https://www.photoshop.com/en)
+- Figma [<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="20"/>](https://www.figma.com/), XD [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="xd" width="20"/>](https://www.adobe.com/products/xd.html), Illustrator [<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="20"/>](https://www.adobe.com/in/products/illustrator.html), Photoshop [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="20"/>](https://www.photoshop.com/en)
 - Git [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20"/>](https://git-scm.com/) 
 - PHP [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="20"/>](https://www.php.net)
-- MySQL [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20"/>](https://www.mysql.com/){:target="_blank" rel="noopener"}
+- MySQL [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20"/>](https://www.mysql.com/)
+  <!-- - React [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20"/>](https://reactjs.org/), Vue [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20"/>](https://vuejs.org/), Node [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20"/>](https://nodejs.org) -->
+  
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shinohj&show_icons=true&locale=en&layout=compact" alt="shinohj" /></p>
 
