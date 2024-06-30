@@ -25,7 +25,7 @@
 - Git [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20"/>](https://git-scm.com/) 
 - PHP [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="20"/>](https://www.php.net)
 - MySQL [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20"/>](https://www.mysql.com/)
-- React [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20"/>](https://reactjs.org/),<!-- Vue [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20"/>](https://vuejs.org/),--> Node [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20"/>](https://nodejs.org)
+- React [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20"/>](https://reactjs.org/), Node [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20"/>](https://nodejs.org), <!-- Vue [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20"/>](https://vuejs.org/),--> 
   
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shinohj&show_icons=true&locale=en&layout=compact" alt="shinohj" /></p>
